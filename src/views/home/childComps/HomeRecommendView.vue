@@ -35,8 +35,7 @@
   }
 
   .recommend-item {
-    fles: 1;
-    margin: 0 5px; 
+    flex: 1;
   }
 
   .recommend-item img {
